@@ -15,8 +15,8 @@ def create_directory(dest_path):
 
 def replicate_tree(source_drive, destination_folder) -> list[list, list]:
     # Ensure the destination folder exists
-    if not os.path.exists(destination_folder):
-        os.makedirs(destination_folder)
+    # if not os.path.exists(destination_folder):
+    #     os.makedirs(destination_folder)
 
     # send to client to create directories
     # Walk through the source drive and collect all directories | files

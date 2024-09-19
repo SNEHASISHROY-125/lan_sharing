@@ -96,7 +96,22 @@ import threading, socket
 # client()
 '''
 
+<<<<<<< HEAD
 
 print(
     [['D:\\D_copy\\.', 'D:\\D_copy\\WI',],][0][0][0]
 )
+=======
+_ = 'C:\\Users\\Snehasish\\Downloads\\test_D'
+print(
+    _[2:]
+)
+# import drive as dr
+
+# DRIVE = str(input('PLEASE ENTER DRIVE NAME [CAPITAL]: like C:\\xampp :  ' ))
+# DESTINATION = str(input('PLEASE ENTER DESTINATION PATH: like D:\\drive_c\\ :  '))
+
+# # get all directories and files as list
+# _ = dr.replicate_tree(DRIVE,DESTINATION)
+# print(_)
+>>>>>>> b88b0ba (msg)

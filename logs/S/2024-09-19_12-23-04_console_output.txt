@@ -1,0 +1,527 @@
+PLEASE ENTER DRIVE NAME [CAPITAL]: like C:\xampp :  PLEASE ENTER DESTINATION PATH: like D:\drive_c\ :  [['D:\\.', 'D:\\roastergenerator', 'D:\\roastergenerator\\.git', 'D:\\roastergenerator\\.git\\hooks', 'D:\\roastergenerator\\.git\\info', 'D:\\roastergenerator\\.git\\logs', 'D:\\roastergenerator\\.git\\logs\\refs', 'D:\\roastergenerator\\.git\\logs\\refs\\heads', 'D:\\roastergenerator\\.git\\logs\\refs\\remotes', 'D:\\roastergenerator\\.git\\logs\\refs\\remotes\\origin', 'D:\\roastergenerator\\.git\\objects', 'D:\\roastergenerator\\.git\\objects\\info', 'D:\\roastergenerator\\.git\\objects\\pack', 'D:\\roastergenerator\\.git\\refs', 'D:\\roastergenerator\\.git\\refs\\heads', 'D:\\roastergenerator\\.git\\refs\\remotes', 'D:\\roastergenerator\\.git\\refs\\remotes\\origin', 'D:\\roastergenerator\\.git\\refs\\tags', 'D:\\roastergenerator\\__pycache__', 'D:\\save'], ['C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.gitignore', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\app.py', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\extract_weekdays.py', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\format.py', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\LICENSE', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\requirements.txt', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\xlsx2jpg.py', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\xlsx_creator.py', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\config', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\description', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\HEAD', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\index', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\packed-refs', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\applypatch-msg.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\commit-msg.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\fsmonitor-watchman.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\post-update.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\pre-applypatch.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\pre-commit.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\pre-merge-commit.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\pre-push.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\pre-rebase.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\pre-receive.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\prepare-commit-msg.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\push-to-checkout.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\hooks\\update.sample', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\info\\exclude', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\logs\\HEAD', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\logs\\refs\\heads\\master', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\logs\\refs\\remotes\\origin\\HEAD', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\objects\\pack\\pack-50f29d3f2d620503a783518dfa97b3e1144e89a4.idx', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\objects\\pack\\pack-50f29d3f2d620503a783518dfa97b3e1144e89a4.pack', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\refs\\heads\\master', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\.git\\refs\\remotes\\origin\\HEAD', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\__pycache__\\extract_weekdays.cpython-311.pyc', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\roastergenerator\\__pycache__\\format.cpython-311.pyc', 'C:\\Users\\Snehasish\\Documents\\AAI\\gui\\save\\Weekly roaster for May 2010.xlsx']]
+SERVER RUNNING AT:  192.168.1.6 PORT:  25200
+[FROM (BUS) server51 recv_ line 321 recving...]
+[FROM (BUS) server51 recv_ line 373 got str]
+[FROM (BUS) server51 recv_ line 377 req-dir-list]
+[FROM (BUS) server63 recv_ line 321 recving...]
+[FROM (BUS) server63 recv_ line 373 got str]
+[FROM (BUS) server63 recv_ line 377 req-file-send]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.0537109375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  13.662109375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  1.49609375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  5.7861328125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  16.697265625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.03515625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  1.0078125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  1.8447265625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.3115234375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.0712890625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.0224609375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.6728515625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.17578125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.466796875 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.875 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  4.615234375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.1845703125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.4140625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  1.6044921875 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.40625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  1.341796875 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  4.783203125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.53125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  1.45703125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  2.7177734375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  3.564453125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.234375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.1982421875 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.1982421875 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.1982421875 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  1.56640625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  15.1708984375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.0400390625 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  0.03125 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  1.7568359375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  6.59375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+[FROM (BUS) server68 recv_ line 321 recving...]
+[FROM (BUS) server68 recv_ line 373 got str]
+[FROM (BUS) server68 recv_ line 377 file-send-ok]
+[FROM (BUS) server60 send_ line 425 sending...]
+[FROM (BUS) server60 send_ line 443 recv_send_ ok]
+[FROM (BUS) server62 recv_ line 321 recving...]
+[FROM (BUS) server62 recv_ line 373 got str]
+[FROM (BUS) server62 recv_ line 377 file-path-ok]
+meta-sd
+[FROM:send_file] sent  5.4609375 kb
+rc-ok
+[FROM:send_file] file sent
+[FROM (main-loop) line 64 True]
+[FROM (main-loop) line 66 sync-end]
+server ends here .... True

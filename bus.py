@@ -29,7 +29,7 @@ def recv_metadata(socket: socket.socket) -> dict | Exception | str:
     - on error returns: error(str)
     '''
     try:
-        meta = socket.recv(12 * 1024).decode()
+        meta = socket.recv(12 * 1024 * 1024).decode()
         # print("Received data:", json.loads(meta))
         return json.loads(meta)
     except Exception as e:
@@ -100,7 +100,7 @@ def send_file(file_path:str, client:socket.socket,speed_:int) ->bool:
         break
     return True
 
-def receive_file(client_socket, save_dir:str='', debug_:str='recieve_file',drive_:str='D') -> bool:
+def receive_file(client_socket, save_dir:str='', debug_:str='recieve_file',drive_:str='') -> bool:
     '''
     - client_socket : connected-socket
     - save_dir : save-dir
@@ -149,7 +149,7 @@ def receive_file(client_socket, save_dir:str='', debug_:str='recieve_file',drive
         # SPECIALIZED FOR THIS APP
         # with open(drive_.__add__(meta_['file_name'][1:]), 'xb') as file:
         # Extract the directory path from the file path
-        file_path = drive_.__add__(meta_['file_name'][1:])
+        file_path = drive_.__add__('\\'+meta_['file_name'][2:])
         directory = os.path.dirname(file_path)
         # Create the directory structure if it doesn't exist
         os.makedirs(directory, exist_ok=True)
